@@ -8,6 +8,17 @@
                 "-fcolor-diagnostics",
                 "-fansi-escape-codes",
                 "-g",
+                "-std=c++20",
+                "-Wall",
+                "-Weffc++", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
+                "-Wextra", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
+                "-Wconversion", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
+                "-Wsign-conversion", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
+                "-Werror", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
+                "-ggdb", // DEBUG
+                "-pedantic-errors", // https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-compiler-extensions/
+                // "-O2", // RELEASE
+                // "-DNDEBUG", // RELEASE
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out"
