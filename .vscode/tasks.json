@@ -51,7 +51,7 @@
                 "-Werror",
                 "-ggdb",
                 "-pedantic-errors",
-                "${file}",
+                "${fileDirname}/**.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out"
             ],

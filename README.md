@@ -2,7 +2,7 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/syntax-and-semantic-errors/> (this link might not always be up to date)
 
 Further reading (TODO):
 
