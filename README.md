@@ -2,11 +2,12 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/> (this link might not always be up to date)
 
 Further reading (TODO):
 
 - <https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md>
+- [Bit manipulation optional chapter](https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/)
 
 # Manual `g++` invocation
 
