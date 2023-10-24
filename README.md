@@ -2,7 +2,7 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/chapter-10-summary-and-quiz/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/introduction-to-object-oriented-programming/> (this link might not always be up to date)
 
 Further reading (TODO):
 
