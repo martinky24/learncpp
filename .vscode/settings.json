@@ -68,6 +68,7 @@
         "random": "cpp",
         "type_traits": "cpp",
         "utility": "cpp",
-        "numbers": "cpp"
+        "numbers": "cpp",
+        "chrono": "cpp"
     }
 }
