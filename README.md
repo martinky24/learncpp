@@ -2,7 +2,7 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer-and-member-function-chaining/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/class-templates-with-member-functions/> (this link might not always be up to date)
 
 Further reading (TODO):
 
