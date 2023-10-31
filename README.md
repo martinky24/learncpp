@@ -2,11 +2,11 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/introduction-to-containers-and-arrays/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/arrays-loops-and-sign-challenge-solutions/> (this link might not always be up to date)
 
 Further reading (TODO):
 
-- <https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md>
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 - [Bit manipulation optional chapter](https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/)
 - [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 
