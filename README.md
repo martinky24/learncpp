@@ -2,7 +2,7 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/introduction-to-stdarray/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/introduction-to-iterators/> (this link might not always be up to date)
 
 Further reading (TODO):
 
