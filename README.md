@@ -2,13 +2,14 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/destructors/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/function-pointers/> (this link might not always be up to date)
 
 Further reading (TODO):
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
-- [Bit manipulation optional chapter](https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/)
 - [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
+- [Bit manipulation optional chapter](https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/)
+
 
 # Manual `g++` invocation
 
