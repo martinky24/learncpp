@@ -2,7 +2,9 @@
 
 Tutorial link: <https://www.learncpp.com/>
 
-Last left off on: <https://www.learncpp.com/cpp-tutorial/function-pointers/> (this link might not always be up to date)
+Last left off on: <https://www.learncpp.com/cpp-tutorial/move-constructors-and-move-assignment/> (this link might not always be up to date)
+
+NOTE: Skipped chapter 21 (operator overloading)
 
 Further reading (TODO):
 
